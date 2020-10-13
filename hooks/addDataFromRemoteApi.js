@@ -3,7 +3,7 @@ const fetch = require('node-fetch');
 /**
  * How to Use:
  * 1. Add this hook into your hooks.js.
- * 2. The data returned on the mutable data object will now be available on all hooks,
+ * 2. The data returned on the mutable 'data' object will now be available on all hooks,
  *    in your Layout.svelte, your RouteName.svelte, and the all({data}) and data({data})
  *    functions for each route.
  * 3. In this example it means that in each of these locations you can access data.companies
