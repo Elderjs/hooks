@@ -1,7 +1,7 @@
 /**
  * How to Use:
  * 1. Add this hook into your hooks.js.
- * 2. Within each of your route.js files, use your data() function to return a data.seo object as show below.
+ * 2. Within each of your route.js files, use your data() function to return a data.seo object as shown below.
  * 3. Update "YOUR SITE HERE" with your site name.
  
  ----------------------------
